@@ -1,9 +1,4 @@
 package inst.an.algorithms.queues;
-/**
- * 
- * @author akumar36
- *
- */
 public class QueueApp {
 	public static void main(String[] args) {
 		Queue<String> q = new Queue<>();

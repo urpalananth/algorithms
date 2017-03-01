@@ -17,6 +17,8 @@ public class Queue <T> {
 		}
 	}
 	public T pop(){
+		if(front == null)
+			return null;
 		Node<T> returnNode = front;
 		front = front.getNext();
 		return returnNode.getValue();

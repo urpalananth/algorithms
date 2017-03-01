@@ -1,4 +1,4 @@
-# algorithms
+# algorithms - Java implementation
 
 1 - Queues
 
